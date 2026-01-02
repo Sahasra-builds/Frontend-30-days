@@ -21,7 +21,7 @@ I learned the basics of **HTML** and successfully created and deployed my first 
 - `index.html` – My first HTML webpage
 
 ### 🌐 Live Website
-🔗 https://sahasra-builds.github.io/frontend-30-days/
+🔗 https://sahasra-builds.github.io/Frontend-30-days/
 
 ### 💡 Reflection
 Day 1 was exciting and motivating.  
